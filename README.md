@@ -1,16 +1,11 @@
 # flutter_library
 
-A new Flutter project.
+Description:
 
-## Getting Started
+This project aims to help Flutter beginners.
 
-This project is a starting point for a Flutter application.
+In 'lib' you will find separated small web apps to show different methods, as simple as possible. One file per app.
 
-A few resources to get you started if this is your first Flutter project:
+I find this helpful sometimes, to see only the code used for a certain method.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Run the different apps by right clicking on the dart file and then click 'Start debugging'.
